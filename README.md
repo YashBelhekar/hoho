@@ -1,4 +1,4 @@
 # hoho
-This is my first GIT repositor.
+This is my first GIT repository.
 <br>
 Author - Yash belhekar
